@@ -1,0 +1,15 @@
+# Comandos no Git
+
+Usados para **checar** e **adicionar** um projeto em questão
+
+- Checar as alterações: *git status*
+
+- Adicionar alterações: *git add .*
+
+  
+
+  Usados para **Commitar** e **Empurrar** um projeto em questão
+
+- Commitar seu projeto: *git commit -m "**texto***"
+
+- Empurrar projeto pro GitHub: *git push origin main*
